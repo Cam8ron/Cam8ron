@@ -12,7 +12,7 @@
 - CompTIA Network+
 - CompTIA A+ 
 - CompTIA Pentest+ 
-- ISC2 SSCp 
+- ISC2 SSCP 
 - AXELOS ITIL 4 Foundation 
 
 
