@@ -13,7 +13,8 @@
 - CompTIA A+ 
 - CompTIA Pentest+ 
 - ISC2 SSCP 
-- AXELOS ITIL 4 Foundation 
+- AXELOS ITIL 4 Foundation
+- AWS Certified Cloud Practitioner
 
 
 <h2>  Connect with me:</h2>
