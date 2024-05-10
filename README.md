@@ -5,6 +5,10 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Cam8ron/Failed-RDP-to-Geolocation)
   - [Nessus Vulnerability Management](https://github.com/Cam8ron/Vulnerability-Management)
 
+<h2>💬 Write-ups:</h2>
+
+  - [LetsDefend: Dynamic Malware Analysis Part 1](https://medium.com/@cameron.martin7/letsdefend-dynamic-malware-analysis-part-1-a1226ce428c8)
+
 <h2>📺 Certifications</h2>
 
 - CompTIA CySA+ 
